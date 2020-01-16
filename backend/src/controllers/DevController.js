@@ -1,7 +1,6 @@
 const axios = require("axios");
 const Dev = require("../models/Dev");
-const parseStringAsArray = require("../Utils/parseStringAsArray");
-
+const parseStringAsArray = require('../Utils/parseStringAsArray');
 //index, show, store, update, destroy
 
 module.exports = {
